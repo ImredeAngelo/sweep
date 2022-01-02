@@ -1,5 +1,0 @@
-C:/Users/cooli/Documents/GitHub/sweep/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/cooli/Documents/GitHub/sweep/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/cooli/Documents/GitHub/sweep/out/build/x64-Debug/sweep/CMakeFiles/sweep.dir
-C:/Users/cooli/Documents/GitHub/sweep/out/build/x64-Debug/sweep/CMakeFiles/edit_cache.dir
-C:/Users/cooli/Documents/GitHub/sweep/out/build/x64-Debug/sweep/CMakeFiles/rebuild_cache.dir
