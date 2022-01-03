@@ -3,13 +3,13 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
-add_subdirectory ("vendor/glfw")
-add_subdirectory ("vendor/glad")
+add_subdirectory (vendor/glfw)
+add_subdirectory (vendor/glad)
 
 # Add source to this project's executable.
-add_executable (sweep "src/main.cpp" "src/Sweep/Engine/Window.h")
+add_executable (sweep src/main.cpp src/Sweep/Engine/Window.h)
 
-target_include_directories(sweep PUBLIC "vendor/glfw/include")
+target_include_directories(sweep PUBLIC vendor/glfw/include)
 
 # Link vendors
 target_link_libraries(sweep
